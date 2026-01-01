@@ -17,7 +17,7 @@ This Python project demonstrates Object-Oriented Programming (OOP) concepts by m
 | 5–9 years   | 10%              |
 | < 5 years   | 0%               |
 
-##  Example Output
+##  Example Output:
 Name: Sundar
 Salary: ₹15000
 Experience: 8 years

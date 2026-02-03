@@ -13,7 +13,7 @@ This Python project demonstrates Object-Oriented Programming (OOP) concepts by m
 
 ##  Bonus Calculation Rules
 | Experience | Bonus Percentage |
-|-------------|------------------|
+|-------------|------------------| 
 | 10+ years   | 20%              |
 | 5–9 years   | 10%              |
 | < 5 years   | 0%               |

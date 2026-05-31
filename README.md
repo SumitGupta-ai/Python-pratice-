@@ -10,7 +10,7 @@ This Python project demonstrates Object-Oriented Programming (OOP) concepts by m
   
 - Update salary and recalculate bonus
 - Display complete employee information
-- 
+ 
 
 ##  Bonus Calculation Rules
 | Experience | Bonus Percentage |

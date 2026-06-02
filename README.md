@@ -38,3 +38,8 @@ Salary: ₹20000
 Experience: 8 years
 Bonus: ₹2000.0
 Final Salary (with bonus): ₹22000.0
+-----
+----
+----
+----- Python question solve -----
+

@@ -42,4 +42,7 @@ Final Salary (with bonus): ₹22000.0
 ----
 ----
 ----- Python question solve -----
+## Daily 5 question solve 
+---
+## imporve Logice Building 
 

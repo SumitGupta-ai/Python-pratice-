@@ -45,7 +45,7 @@ Final Salary (with bonus): ₹22000.0
 ## Daily 5 question solve 
 ## imporve Logice Building 
 ---
-**Day 1** complete
+# **Day 1** complete
 **Day 2** complete
 **Day 3** complete
 **Day 4** complete

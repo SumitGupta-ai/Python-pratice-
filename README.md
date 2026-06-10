@@ -1,6 +1,6 @@
 # Employee-Details-Management-System
 
-#  Employee Details Management Systems
+#  Employee Details Management System
 
 This Python project demonstrates Object-Oriented Programming (OOP) concepts by managing employee details, calculating bonuses based on experience, and updating salary details dynamically.
 

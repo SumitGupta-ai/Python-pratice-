@@ -54,6 +54,6 @@ Final Salary (with bonus): ₹22000.0
 ## **Day 7** complete 
 ## **Day 8** complete
 ## **Day 9** complete
-## **Day 10** complete (oops)
+## **Day 10** complete (oops) problem solve
 
 

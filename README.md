@@ -58,6 +58,6 @@ Final Salary (with bonus): ₹22000.0
 ## **Day 11 Solve basic question**
 ## **Day 12 Solve question**
 ## **Day 13 Solve question** (basic problem)
-## **Day 14 Solve question** (basic problem)
+## **Day 14 Solve question** ( medieam level)
 
 

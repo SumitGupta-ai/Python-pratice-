@@ -18,6 +18,7 @@
 ## **Day 13 Solve question** (basic problem)
 ## **Day 14 Solve question** ( medieam level)
 ## **Day 15 Solve question** ( medieam level)
-## **Day 1 Solve question** ( medieam level)
+## **Day 16 Solve question** ( medieam level)
+## **Day 17 Solve question** ( medieam level)
 
 

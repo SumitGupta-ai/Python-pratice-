@@ -1,4 +1,4 @@
-####  Python question solve
+# Python question solve
 
 ## Daily 5 question solve 
 ## imporve Logice Building 

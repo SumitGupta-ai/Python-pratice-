@@ -28,6 +28,6 @@
 ### **Day 23 Solve question** ( medieam level)
 ### **Day 24 Solve question** ( contact book list)
 ### **Day 25 Solve question** ( medieam level)
-### **Day 25 Solve question** ( medieam level) ( again rivison)
+### **Day 25 Solve question** ( medieam level)  (again same day rivison)
 
 

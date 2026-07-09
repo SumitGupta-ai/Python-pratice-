@@ -31,6 +31,7 @@
 ### **Day 25 Solve question** ( medieam level)  (again same day rivison)
 ### **Day 26 Solve question** (medieam level)
 ### **Day 27 Solve question** (medieam level)
-### **Day 28 Solve question** (medieam level)
+### **Day 28 Solve question** (DSA In Array)
+### **Day 29 Solve question** (DSA)
 
 

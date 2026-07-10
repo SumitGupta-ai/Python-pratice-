@@ -33,5 +33,6 @@
 ### **Day 27 Solve question** (medieam level)
 ### **Day 28 Solve question** (DSA In Array)
 ### **Day 29 Solve question** (DSA Linear Treveral)
+### **Day 30 Solve question** (DSA Two Pointer Technic)
 
 

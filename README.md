@@ -1,7 +1,7 @@
 # Python question solve
 
 ## Daily 5 question solve 
-## imporve Logice Building 
+## imporve Logice Building
 ---
 ### **Day 1** complete
 ### **Day 2** complete

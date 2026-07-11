@@ -34,5 +34,6 @@
 ### **Day 28 Solve question** (DSA In Array)
 ### **Day 29 Solve question** (DSA Linear Treveral)
 ### **Day 30 Solve question** (DSA Two Pointer Technic)
+### **Day 31 Solve question** (DSA Two sum leetcode)
 
 

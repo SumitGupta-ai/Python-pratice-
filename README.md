@@ -36,5 +36,4 @@
 ### **Day 30 Solve question** (DSA Two Pointer Technic)
 ### **Day 31 Solve question** (DSA Two sum leetcode)
 ### **Day 31 Solve question** 
-
-### **Day 31 Solve question**
+### **Day 32 Solve question**

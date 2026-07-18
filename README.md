@@ -9,7 +9,7 @@
 ### **Day 4** complete
 ### **Day 5** complete
 ### **Day 6** completes
-### **Day 7** complete 
+### **Day 7** complete s
 ### **Day 8** complete
 ### **Day 9** complete
 ### **Day 10** complete (oops) problem solve
